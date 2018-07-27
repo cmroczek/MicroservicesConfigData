@@ -16,4 +16,4 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
-wert-aus-git-application-yml: test 2 profile selected
+wert-aus-git-application-yml: test profile selected
